@@ -1,0 +1,11 @@
+Model Information:
+* title:	Olavskirken ruin
+* source:	https://sketchfab.com/3d-models/olavskirken-ruin-3a6c7c3425cb4cfa874eecf0860365d0
+* author:	Kulturarv i Vestfold og Telemark fylkeskommune (https://sketchfab.com/sindrearn)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Olavskirken ruin" (https://sketchfab.com/3d-models/olavskirken-ruin-3a6c7c3425cb4cfa874eecf0860365d0) by Kulturarv i Vestfold og Telemark fylkeskommune (https://sketchfab.com/sindrearn) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
